@@ -1,0 +1,2 @@
+Genename	BrownForsythe	LeveneAbsolute	LeveneQuadratic	OBrien	std_SCZ_GT_std_CTL
+VEGFA	3.20979639940518e-06	7.87024952645394e-07	2.29091277083248e-05	2.39494630226302e-05	1

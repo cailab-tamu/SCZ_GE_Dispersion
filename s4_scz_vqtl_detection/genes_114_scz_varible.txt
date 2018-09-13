@@ -1,0 +1,115 @@
+OFFICIAL_GENE_SYMBOL	Gene Name	Related Genes	Species
+ABHD14A	abhydrolase domain containing 14A(ABHD14A)	RG	Homo sapiens
+ACSL6	acyl-CoA synthetase long-chain family member 6(ACSL6)	RG	Homo sapiens
+ADAP2	ArfGAP with dual PH domains 2(ADAP2)	RG	Homo sapiens
+ALDH3A2	aldehyde dehydrogenase 3 family member A2(ALDH3A2)	RG	Homo sapiens
+ANKFN1	ankyrin repeat and fibronectin type III domain containing 1(ANKFN1)	RG	Homo sapiens
+ANKRD30BL	ankyrin repeat domain 30B like(ANKRD30BL)	RG	Homo sapiens
+ANXA11	annexin A11(ANXA11)	RG	Homo sapiens
+ARPC4	actin related protein 2/3 complex subunit 4(ARPC4)	RG	Homo sapiens
+ASAH1	N-acylsphingosine amidohydrolase 1(ASAH1)	RG	Homo sapiens
+ASPHD2	aspartate beta-hydroxylase domain containing 2(ASPHD2)	RG	Homo sapiens
+ATP1B1	ATPase Na+/K+ transporting subunit beta 1(ATP1B1)	RG	Homo sapiens
+BAIAP2	BAI1 associated protein 2(BAIAP2)	RG	Homo sapiens
+BRMS1	breast cancer metastasis suppressor 1(BRMS1)	RG	Homo sapiens
+C11orf49	chromosome 11 open reading frame 49(C11orf49)	RG	Homo sapiens
+C12orf49	chromosome 12 open reading frame 49(C12orf49)	RG	Homo sapiens
+C1QTNF3	C1q and tumor necrosis factor related protein 3(C1QTNF3)	RG	Homo sapiens
+CAMKV	CaM kinase like vesicle associated(CAMKV)	RG	Homo sapiens
+CARS	cysteinyl-tRNA synthetase(CARS)	RG	Homo sapiens
+CCT7	chaperonin containing TCP1 subunit 7(CCT7)	RG	Homo sapiens
+CD36	CD36 molecule(CD36)	RG	Homo sapiens
+CFAP20	cilia and flagella associated protein 20(CFAP20)	RG	Homo sapiens
+CHTOP	chromatin target of PRMT1(CHTOP)	RG	Homo sapiens
+CKMT1B	creatine kinase, mitochondrial 1B(CKMT1B)	RG	Homo sapiens
+CNTNAP2	contactin associated protein-like 2(CNTNAP2)	RG	Homo sapiens
+COPZ2	coatomer protein complex subunit zeta 2(COPZ2)	RG	Homo sapiens
+CYLD	CYLD lysine 63 deubiquitinase(CYLD)	RG	Homo sapiens
+DDX58	DExD/H-box helicase 58(DDX58)	RG	Homo sapiens
+DEPTOR	DEP domain containing MTOR-interacting protein(DEPTOR)	RG	Homo sapiens
+DGKE	diacylglycerol kinase epsilon(DGKE)	RG	Homo sapiens
+DLG1	discs large MAGUK scaffold protein 1(DLG1)	RG	Homo sapiens
+DNAJA4	DnaJ heat shock protein family (Hsp40) member A4(DNAJA4)	RG	Homo sapiens
+ENDOV	endonuclease V(ENDOV)	RG	Homo sapiens
+ENO1	enolase 1(ENO1)	RG	Homo sapiens
+FAM134B	family with sequence similarity 134 member B(FAM134B)	RG	Homo sapiens
+FAM65B	family with sequence similarity 65 member B(FAM65B)	RG	Homo sapiens
+FCRLB	Fc receptor like B(FCRLB)	RG	Homo sapiens
+GBF1	golgi brefeldin A resistant guanine nucleotide exchange factor 1(GBF1)	RG	Homo sapiens
+GBP5	guanylate binding protein 5(GBP5)	RG	Homo sapiens
+GFPT1	glutamine--fructose-6-phosphate transaminase 1(GFPT1)	RG	Homo sapiens
+GJA1	gap junction protein alpha 1(GJA1)	RG	Homo sapiens
+GPR19	G protein-coupled receptor 19(GPR19)	RG	Homo sapiens
+GPRASP2	G protein-coupled receptor associated sorting protein 2(GPRASP2)	RG	Homo sapiens
+GSTA4	glutathione S-transferase alpha 4(GSTA4)	RG	Homo sapiens
+GSTO1	glutathione S-transferase omega 1(GSTO1)	RG	Homo sapiens
+HEPH	hephaestin(HEPH)	RG	Homo sapiens
+HIBCH	3-hydroxyisobutyryl-CoA hydrolase(HIBCH)	RG	Homo sapiens
+HSPB8	heat shock protein family B (small) member 8(HSPB8)	RG	Homo sapiens
+HSPD1	heat shock protein family D (Hsp60) member 1(HSPD1)	RG	Homo sapiens
+IFFO1	intermediate filament family orphan 1(IFFO1)	RG	Homo sapiens
+IFI6	interferon alpha inducible protein 6(IFI6)	RG	Homo sapiens
+IFIH1	interferon induced with helicase C domain 1(IFIH1)	RG	Homo sapiens
+IFIT1	interferon induced protein with tetratricopeptide repeats 1(IFIT1)	RG	Homo sapiens
+IFIT2	interferon induced protein with tetratricopeptide repeats 2(IFIT2)	RG	Homo sapiens
+IKZF5	IKAROS family zinc finger 5(IKZF5)	RG	Homo sapiens
+INPP5E	inositol polyphosphate-5-phosphatase E(INPP5E)	RG	Homo sapiens
+KCNJ6	potassium voltage-gated channel subfamily J member 6(KCNJ6)	RG	Homo sapiens
+KDM5A	lysine demethylase 5A(KDM5A)	RG	Homo sapiens
+KLC4	kinesin light chain 4(KLC4)	RG	Homo sapiens
+KLF6	Kruppel like factor 6(KLF6)	RG	Homo sapiens
+LONP1	lon peptidase 1, mitochondrial(LONP1)	RG	Homo sapiens
+LRFN3	leucine rich repeat and fibronectin type III domain containing 3(LRFN3)	RG	Homo sapiens
+LRRC49	leucine rich repeat containing 49(LRRC49)	RG	Homo sapiens
+LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)(LSS)	RG	Homo sapiens
+MAGT1	magnesium transporter 1(MAGT1)	RG	Homo sapiens
+MAN2A1	mannosidase alpha class 2A member 1(MAN2A1)	RG	Homo sapiens
+MAP3K7CL	MAP3K7 C-terminal like(MAP3K7CL)	RG	Homo sapiens
+MAPK8	mitogen-activated protein kinase 8(MAPK8)	RG	Homo sapiens
+MFAP3L	microfibrillar associated protein 3 like(MFAP3L)	RG	Homo sapiens
+MFSD3	major facilitator superfamily domain containing 3(MFSD3)	RG	Homo sapiens
+MYRIP	myosin VIIA and Rab interacting protein(MYRIP)	RG	Homo sapiens
+NAP1L2	nucleosome assembly protein 1 like 2(NAP1L2)	RG	Homo sapiens
+NAP1L3	nucleosome assembly protein 1 like 3(NAP1L3)	RG	Homo sapiens
+NDFIP1	Nedd4 family interacting protein 1(NDFIP1)	RG	Homo sapiens
+NOMO1	NODAL modulator 1(NOMO1)	RG	Homo sapiens
+NRXN1	neurexin 1(NRXN1)	RG	Homo sapiens
+NT5C3B	5'-nucleotidase, cytosolic IIIB(NT5C3B)	RG	Homo sapiens
+OLFML3	olfactomedin like 3(OLFML3)	RG	Homo sapiens
+P2RX7	purinergic receptor P2X 7(P2RX7)	RG	Homo sapiens
+PACSIN2	protein kinase C and casein kinase substrate in neurons 2(PACSIN2)	RG	Homo sapiens
+PAPLN	papilin, proteoglycan like sulfated glycoprotein(PAPLN)	RG	Homo sapiens
+PIM3	Pim-3 proto-oncogene, serine/threonine kinase(PIM3)	RG	Homo sapiens
+PNMA6A	paraneoplastic Ma antigen family member 6A(PNMA6A)	RG	Homo sapiens
+PSMB2	proteasome subunit beta 2(PSMB2)	RG	Homo sapiens
+PUSL1	pseudouridylate synthase-like 1(PUSL1)	RG	Homo sapiens
+RCAN1	regulator of calcineurin 1(RCAN1)	RG	Homo sapiens
+RERE	arginine-glutamic acid dipeptide repeats(RERE)	RG	Homo sapiens
+RIOK3	RIO kinase 3(RIOK3)	RG	Homo sapiens
+RNF185	ring finger protein 185(RNF185)	RG	Homo sapiens
+RPS8	ribosomal protein S8(RPS8)	RG	Homo sapiens
+SLC39A4	solute carrier family 39 member 4(SLC39A4)	RG	Homo sapiens
+SLC6A15	solute carrier family 6 member 15(SLC6A15)	RG	Homo sapiens
+SLFN5	schlafen family member 5(SLFN5)	RG	Homo sapiens
+SND1	staphylococcal nuclease and tudor domain containing 1(SND1)	RG	Homo sapiens
+SNTB2	syntrophin beta 2(SNTB2)	RG	Homo sapiens
+SULT1A1	sulfotransferase family 1A member 1(SULT1A1)	RG	Homo sapiens
+TMEM145	transmembrane protein 145(TMEM145)	RG	Homo sapiens
+TMEM14A	transmembrane protein 14A(TMEM14A)	RG	Homo sapiens
+TNFAIP2	TNF alpha induced protein 2(TNFAIP2)	RG	Homo sapiens
+TRAPPC5	trafficking protein particle complex 5(TRAPPC5)	RG	Homo sapiens
+TRIQK	triple QxxK/R motif containing(TRIQK)	RG	Homo sapiens
+TVP23B	trans-golgi network vesicle protein 23 homolog B(TVP23B)	RG	Homo sapiens
+TXNL4A	thioredoxin like 4A(TXNL4A)	RG	Homo sapiens
+TYW1	tRNA-yW synthesizing protein 1 homolog(TYW1)	RG	Homo sapiens
+UBE2H	ubiquitin conjugating enzyme E2 H(UBE2H)	RG	Homo sapiens
+UBL3	ubiquitin like 3(UBL3)	RG	Homo sapiens
+WBP1L	WW domain binding protein 1-like(WBP1L)	RG	Homo sapiens
+WDR35	WD repeat domain 35(WDR35)	RG	Homo sapiens
+ZFP14	ZFP14 zinc finger protein(ZFP14)	RG	Homo sapiens
+ZFX	zinc finger protein, X-linked(ZFX)	RG	Homo sapiens
+ZNF184	zinc finger protein 184(ZNF184)	RG	Homo sapiens
+ZNF282	zinc finger protein 282(ZNF282)	RG	Homo sapiens
+ZNF331	zinc finger protein 331(ZNF331)	RG	Homo sapiens
+ZNF621	zinc finger protein 621(ZNF621)	RG	Homo sapiens
+ZNF701	zinc finger protein 701(ZNF701)	RG	Homo sapiens

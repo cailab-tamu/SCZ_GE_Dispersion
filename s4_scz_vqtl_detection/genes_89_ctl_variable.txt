@@ -1,0 +1,90 @@
+OFFICIAL_GENE_SYMBOL	Gene Name	Related Genes	Species
+ABCD3	ATP binding cassette subfamily D member 3(ABCD3)	RG	Homo sapiens
+ADGRA3	adhesion G protein-coupled receptor A3(ADGRA3)	RG	Homo sapiens
+ARHGEF26	Rho guanine nucleotide exchange factor 26(ARHGEF26)	RG	Homo sapiens
+ASRGL1	asparaginase like 1(ASRGL1)	RG	Homo sapiens
+ATCAY	ATCAY, caytaxin(ATCAY)	RG	Homo sapiens
+AURKA	aurora kinase A(AURKA)	RG	Homo sapiens
+BMP8B	bone morphogenetic protein 8b(BMP8B)	RG	Homo sapiens
+BMPR1B	bone morphogenetic protein receptor type 1B(BMPR1B)	RG	Homo sapiens
+BTK	Bruton tyrosine kinase(BTK)	RG	Homo sapiens
+C14orf119	chromosome 14 open reading frame 119(C14orf119)	RG	Homo sapiens
+C17orf51	chromosome 17 open reading frame 51(C17orf51)	RG	Homo sapiens
+CATSPER2	cation channel sperm associated 2(CATSPER2)	RG	Homo sapiens
+CCDC90B	coiled-coil domain containing 90B(CCDC90B)	RG	Homo sapiens
+CD37	CD37 molecule(CD37)	RG	Homo sapiens
+CENPC	centromere protein C(CENPC)	RG	Homo sapiens
+CMPK2	cytidine/uridine monophosphate kinase 2(CMPK2)	RG	Homo sapiens
+CUL4A	cullin 4A(CUL4A)	RG	Homo sapiens
+CYP4F11	cytochrome P450 family 4 subfamily F member 11(CYP4F11)	RG	Homo sapiens
+DCLRE1A	DNA cross-link repair 1A(DCLRE1A)	RG	Homo sapiens
+DDX58	DExD/H-box helicase 58(DDX58)	RG	Homo sapiens
+DPP10	dipeptidyl peptidase like 10(DPP10)	RG	Homo sapiens
+DTX3L	deltex E3 ubiquitin ligase 3L(DTX3L)	RG	Homo sapiens
+EFEMP1	EGF containing fibulin like extracellular matrix protein 1(EFEMP1)	RG	Homo sapiens
+ETNPPL	ethanolamine-phosphate phospho-lyase(ETNPPL)	RG	Homo sapiens
+F8	coagulation factor VIII(F8)	RG	Homo sapiens
+FAXDC2	fatty acid hydroxylase domain containing 2(FAXDC2)	RG	Homo sapiens
+FERMT2	fermitin family member 2(FERMT2)	RG	Homo sapiens
+FGL2	fibrinogen like 2(FGL2)	RG	Homo sapiens
+GLIPR1	GLI pathogenesis related 1(GLIPR1)	RG	Homo sapiens
+GPN2	GPN-loop GTPase 2(GPN2)	RG	Homo sapiens
+HDAC1	histone deacetylase 1(HDAC1)	RG	Homo sapiens
+HEATR1	HEAT repeat containing 1(HEATR1)	RG	Homo sapiens
+HERC6	HECT and RLD domain containing E3 ubiquitin protein ligase family member 6(HERC6)	RG	Homo sapiens
+HPS3	HPS3, biogenesis of lysosomal organelles complex 2 subunit 1(HPS3)	RG	Homo sapiens
+HSD17B4	hydroxysteroid 17-beta dehydrogenase 4(HSD17B4)	RG	Homo sapiens
+HSPH1	heat shock protein family H (Hsp110) member 1(HSPH1)	RG	Homo sapiens
+IFI6	interferon alpha inducible protein 6(IFI6)	RG	Homo sapiens
+IFIT1	interferon induced protein with tetratricopeptide repeats 1(IFIT1)	RG	Homo sapiens
+IFIT5	interferon induced protein with tetratricopeptide repeats 5(IFIT5)	RG	Homo sapiens
+ISG15	ISG15 ubiquitin-like modifier(ISG15)	RG	Homo sapiens
+KDELC2	KDEL motif containing 2(KDELC2)	RG	Homo sapiens
+KHDRBS3	KH RNA binding domain containing, signal transduction associated 3(KHDRBS3)	RG	Homo sapiens
+KIFC3	kinesin family member C3(KIFC3)	RG	Homo sapiens
+KLHL7	kelch like family member 7(KLHL7)	RG	Homo sapiens
+KLLN	killin, p53-regulated DNA replication inhibitor(KLLN)	RG	Homo sapiens
+LRP10	LDL receptor related protein 10(LRP10)	RG	Homo sapiens
+LRRC56	leucine rich repeat containing 56(LRRC56)	RG	Homo sapiens
+M6PR	mannose-6-phosphate receptor, cation dependent(M6PR)	RG	Homo sapiens
+MAIP1	matrix AAA peptidase interacting protein 1(MAIP1)	RG	Homo sapiens
+MASP1	mannan binding lectin serine peptidase 1(MASP1)	RG	Homo sapiens
+MPLKIP	M-phase specific PLK1 interacting protein(MPLKIP)	RG	Homo sapiens
+MRNIP	MRN complex interacting protein(MRNIP)	RG	Homo sapiens
+MT1F	metallothionein 1F(MT1F)	RG	Homo sapiens
+MYBPC1	myosin binding protein C, slow type(MYBPC1)	RG	Homo sapiens
+MYLK	myosin light chain kinase(MYLK)	RG	Homo sapiens
+MZT2A	mitotic spindle organizing protein 2A(MZT2A)	RG	Homo sapiens
+NAPRT	nicotinate phosphoribosyltransferase(NAPRT)	RG	Homo sapiens
+NRP1	neuropilin 1(NRP1)	RG	Homo sapiens
+NUDT16	nudix hydrolase 16(NUDT16)	RG	Homo sapiens
+ONECUT2	one cut homeobox 2(ONECUT2)	RG	Homo sapiens
+PAAF1	proteasomal ATPase associated factor 1(PAAF1)	RG	Homo sapiens
+PDDC1	Parkinson disease 7 domain containing 1(PDDC1)	RG	Homo sapiens
+PGD	phosphogluconate dehydrogenase(PGD)	RG	Homo sapiens
+PHF23	PHD finger protein 23(PHF23)	RG	Homo sapiens
+PPP1R9A	protein phosphatase 1 regulatory subunit 9A(PPP1R9A)	RG	Homo sapiens
+PPP2R1B	protein phosphatase 2 scaffold subunit Abeta(PPP2R1B)	RG	Homo sapiens
+PSMC3	proteasome 26S subunit, ATPase 3(PSMC3)	RG	Homo sapiens
+PTCD1	pentatricopeptide repeat domain 1(PTCD1)	RG	Homo sapiens
+RAB9A	RAB9A, member RAS oncogene family(RAB9A)	RG	Homo sapiens
+RBP1	retinol binding protein 1(RBP1)	RG	Homo sapiens
+RPP14	ribonuclease P/MRP subunit p14(RPP14)	RG	Homo sapiens
+SARDH	sarcosine dehydrogenase(SARDH)	RG	Homo sapiens
+SCYL2	SCY1 like pseudokinase 2(SCYL2)	RG	Homo sapiens
+SDF2L1	stromal cell derived factor 2 like 1(SDF2L1)	RG	Homo sapiens
+SFXN2	sideroflexin 2(SFXN2)	RG	Homo sapiens
+SH3BGRL	SH3 domain binding glutamate rich protein like(SH3BGRL)	RG	Homo sapiens
+SLC2A1	solute carrier family 2 member 1(SLC2A1)	RG	Homo sapiens
+SLC2A3	solute carrier family 2 member 3(SLC2A3)	RG	Homo sapiens
+SPSB1	splA/ryanodine receptor domain and SOCS box containing 1(SPSB1)	RG	Homo sapiens
+TCP1	t-complex 1(TCP1)	RG	Homo sapiens
+TM2D3	TM2 domain containing 3(TM2D3)	RG	Homo sapiens
+TMIE	transmembrane inner ear(TMIE)	RG	Homo sapiens
+TMOD2	tropomodulin 2(TMOD2)	RG	Homo sapiens
+TXNRD1	thioredoxin reductase 1(TXNRD1)	RG	Homo sapiens
+UBE2B	ubiquitin conjugating enzyme E2 B(UBE2B)	RG	Homo sapiens
+VPS29	VPS29, retromer complex component(VPS29)	RG	Homo sapiens
+WDR45B	WD repeat domain 45B(WDR45B)	RG	Homo sapiens
+WSB1	WD repeat and SOCS box containing 1(WSB1)	RG	Homo sapiens
+ZNF558	zinc finger protein 558(ZNF558)	RG	Homo sapiens
