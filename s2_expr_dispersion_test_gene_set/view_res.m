@@ -115,8 +115,8 @@ title('SCZ')
 
 subplot(2,2,4)
 i_evqtlplot(z,dizgroup-1);
-ylabel('Mahalanobis distance to group centroid')
-
+% ylabel('Mahalanobis distance to group centroid')
+ylabel('MD to group centroid')
 % subplot(2,3,5)
 % boxplot(z,agegroup);
 % hold on
@@ -194,6 +194,7 @@ end
         %set(h2,'linesmooth','off','linewidth',1.5);
         box on
         hold off
+        set(gca,'XTickLabel',{'CTL','SCZ'})
         
         % http://stackoverflow.com/questions/21999451/how-to-get-the-values-of-the-outliers-and-their-coordinates-from-a-box-plot
 end

@@ -13,8 +13,10 @@ parfor k=1:length(genid)
     T=[T; {genid{k},p1,p2,p3,p4,std(Dx(k,:))>std(Dc(k,:))}];
 end
 T.Properties.VariableNames={'Genename' 'BrownForsythe' 'LeveneAbsolute' 'LeveneQuadratic' 'OBrien' 'std_SCZ_GT_std_CTL'};
-idx1=T{:,2}<0.05/length(genid);
+%idx1=T{:,2}<0.05/length(genid);
+    FDR = mafdr(T{:,2});
+    idx1=FDR<0.05;
 T2=T(idx1,:);
 T3=sortrows(T2,2);
-writetable(T3,'test_res.txt','Delimiter','\t');
+writetable(T3,'test_res_FDR.txt','Delimiter','\t');
 
