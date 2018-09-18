@@ -9,10 +9,16 @@ case 4
         load ../../s2_expr_dispersion_test_gene_set/CMC4_214_SCZ_212_Control_eur Dx Dc genid
 end
 
+% string({flist(1).name; flist(2).name; flist(3).name; flist(4).name})
+%    "CMC_MSSM-Penn-Pitt_DLPFC_mRNA_IlluminaHiSeq2500_gene-adjustedNoSVA-dataNormalization-includeAncestry-adjustedLogCPM.zip"
+%    "CMC_MSSM-Penn-Pitt_DLPFC_mRNA_IlluminaHiSeq2500_gene-adjustedNoSVA-dataNormalization-noAncestry-adjustedLogCPM.zip"
+%    "CMC_MSSM-Penn-Pitt_DLPFC_mRNA_IlluminaHiSeq2500_gene-adjustedSVA-dataNormalization-includeAncestry-adjustedLogCPM.zip"
+%    "CMC_MSSM-Penn-Pitt_DLPFC_mRNA_IlluminaHiSeq2500_gene-adjustedSVA-dataNormalization-noAncestry-adjustedLogCPM.zip"
+
 %%
-% a=median([Dc Dx],2);
-% i=a>prctile(a,15);
-% Dx=Dx(i,:); Dc=Dc(i,:); genid=genid(i);
+a=median([Dc Dx],2);
+i=a>prctile(a,15);
+Dx=Dx(i,:); Dc=Dc(i,:); genid=genid(i);
 
 %%
 % nctl=size(Dc,2);
