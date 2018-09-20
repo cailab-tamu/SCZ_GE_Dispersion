@@ -36,12 +36,13 @@ for k=1:length(targetgenes)
     set(h2(6,:),'color','k','linewidth',3);
     hold on
     plot(g+1.25,y,'ok');
-    set(gca,'XTickLabel',{sprintf('CTL (n=%d)',ndc),sprintf('SCZ (n=%d)',ndx)});
+    set(gca,'XTickLabel',{sprintf('CTL (n=%d)',ndc),...
+        sprintf('SCZ (n=%d)',ndx)});
     ylabel(targetg)
     print(fh2,'pic/2.tif','-dtiff');
     close(fh2);
-    I1 = imread(sprintf('pic/1.tif',targetg));
-    I2 = imread(sprintf('pic/2.tif',targetg));
+    I1=imread(sprintf('pic/1.tif',targetg));
+    I2=imread(sprintf('pic/2.tif',targetg));
     imwrite([I1 I2],sprintf('pic/%s.tif',targetg));
 end
 
