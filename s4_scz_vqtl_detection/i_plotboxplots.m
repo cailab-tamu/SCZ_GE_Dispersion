@@ -17,17 +17,24 @@ p1_2=vartestn(gexpx(ggnox~=2),ggnox(ggnox~=2),'TestType','BrownForsythe','Displa
 p0_3=vartestn(gexpc(ggnoc>1),ggnoc(ggnoc>1),'TestType','BrownForsythe','Display','off');
 p1_3=vartestn(gexpx(ggnox>1),ggnox(ggnox>1),'TestType','BrownForsythe','Display','off');
 
-
-
 xx=[ggnoc; ggnox+3];
 yy=[gexpc; gexpx];
-figure;
-boxplot(yy,xx,'color','k');
+
+
+h2=boxplot(yy,xx,'color','k');
+set(h2(6,:),'color','k','linewidth',3);
 hold on
-      plot(xx,yy,'ok');
-      xlabel(sprintf('(%.2g | %.2g %.2g %.2g)    (%.2g | %.2g %.2g %.2g)',p0,p0_1,p0_2,p0_3,p1,p1_1,p1_2,p1_3));
+[xx]=i_add_jitter(xx,yy);
+pp1=scatter(xx,yy);
+pp1.MarkerEdgeColor='k';
+      set(gca,'XTickLabel',{'0','1','2','0','1','2'})
+     % plot(xx,yy,'ok');
+if addlabels     
+      xlabel(sprintf('(%.0e || %.0e %.0e %.0e)    (%.0e || %.0e %.0e %.0e)',p0,p0_1,p0_2,p0_3,p1,p1_1,p1_2,p1_3));
       ylabel(cgen);
-      set(gca,'XTickLabel',{'0','1','2','0','1','2'})        
+
+end
+      
 %         figure;
 %         subplot(1,2,1)
 %         boxplot(gexpc,ggnoc);
@@ -53,3 +60,4 @@ hold on
 %         
 %         %subplot(1,2,1)
 %         %ylim([min(yl(:)) max(yl(:))]);
+
