@@ -41,9 +41,9 @@ for k=1:size(T,1)
     % CFB  CNTNAP2  SND1 CRBN DLG1 EEF1D  KCNK3 PDIA3 ZBED9
     
     
-    % CALM1 HTR1A  NDUFAF5
+    % CALM1 HTR1A  NDUFAF5    
+    % if ~strcmp('SLC39A8',cgen),  continue; end    % https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2720422
     if ~strcmp('ZBED9',cgen), continue; end
-    
     
     [~,gk]=ismember(cgen,genid);
     sk=T.Var5(k);
