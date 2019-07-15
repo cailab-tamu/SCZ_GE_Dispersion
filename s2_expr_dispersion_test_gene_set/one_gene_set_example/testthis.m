@@ -11,7 +11,9 @@ sigma=50;
 z2=exp(-z./(2*sigma^2));
 
 z3=z;
-z3(z>7)=z3(z>7)*20;
+a=quantile(z,0.9);
+%z3(z>7)=z3(z>7)*20;
+z3(z>a)=z3(z>a)*max(z);
 
 
 [p1a] = anova1(z,dizgroup,'off'); [p2a] = anova1(z.^2,dizgroup,'off');
@@ -21,7 +23,7 @@ z3(z>7)=z3(z>7)*20;
 [p1a p1b p1c]
 [p2a p2b p1c]
 
-
+return;
 %%
 X=[Zctl; Zscz];
 [~,s]=pca(X);
