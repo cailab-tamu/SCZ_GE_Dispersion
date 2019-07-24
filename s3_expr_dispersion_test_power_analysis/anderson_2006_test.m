@@ -14,6 +14,13 @@ grp=[zeros(n0,1); ones(n1,1)];
 [mah0]=sqrt(mahal_robust(Z0,Z0,alphav));
 [mah1]=sqrt(mahal_robust(Z1,Z1,alphav));
 d=[mah0;mah1];
+
+z=d;
+z3=z;
+a=quantile(z,0.9);
+z3(z>a)=z3(z>a)*max(z);
+d=z3;
+
 [p,~,stats]=anova1(d,grp,'off');
 
 if strcmp(displayopt,'on')

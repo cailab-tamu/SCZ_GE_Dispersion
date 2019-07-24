@@ -1,4 +1,4 @@
-load zxy2 Zc X Y
+load zxy2_improved Zc X Y
 Z=cellfun(@(X)(sum(X<0.001)),Zc);
 figure; mesh(X,Y,Z,'edgecolor', 'k')
 zlabel('Power (%)')

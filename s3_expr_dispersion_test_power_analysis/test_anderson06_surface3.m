@@ -31,7 +31,7 @@ for kx=1:21
     end
 end
 [X,Y] = meshgrid(smpsiz,lamdav);
-save zxy2 Zc X Y
+save zxy2_improved Zc X Y
 %%
 
 Z=cellfun(@(X)(sum(X<0.01)),Zc);
